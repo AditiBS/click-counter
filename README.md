@@ -17,5 +17,6 @@ The count is saved in your browser and persists after refreshing the page.
 4. Use the − button to decrease (not below zero) and Reset to clear the count.  
 
 ## Demo video
+https://aditibs.github.io/click-counter/
 https://github.com/user-attachments/assets/9d0fd01b-84a4-4d67-9015-2dda03037eaa
 
